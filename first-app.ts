@@ -4,7 +4,7 @@ userName = '34';
 
 //username = 34
 
-let ussr: {
+let user: {
 	name: string;
 	age: number;
 	isAdmin: boolean;
